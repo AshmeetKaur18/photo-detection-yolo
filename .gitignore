@@ -1,0 +1,19 @@
+# YOLO model weights (Too large for GitHub)
+*.pt
+
+# Streamlit config/credentials
+.streamlit/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
